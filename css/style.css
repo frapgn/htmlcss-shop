@@ -1,0 +1,10 @@
+.container {
+    position: relative;
+}
+
+.item-box {
+    height: 300px;
+    width: 250px;
+    display: inline-block;
+    background-color: #737373;
+}
